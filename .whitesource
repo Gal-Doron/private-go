@@ -2,7 +2,7 @@
   "settingsInheritedFrom": "Gal-Doron/whitesource-config@main",
   "hostRules": [
 {
-"matchHost": "https://sttr.jfrog.io/artifactory",
+"matchHost": "sttr.jfrog.io/artifactory/api/go/default-go",
 "hostType": "go",
 "userName": "g.d.doron@gmail.com",
 "encrypted": {
