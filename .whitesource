@@ -2,8 +2,8 @@
   "settingsInheritedFrom": "Gal-Doron/whitesource-config@main",
   "hostRules": [
 {
-"matchHost": "https://sttr.jfrog.io/artifactory/api/npm/gal-sep-test/",
-"hostType": "npm",
+"matchHost": "https://sttr.jfrog.io/artifactory",
+"hostType": "go",
 "userName": "g.d.doron@gmail.com",
 "encrypted": {
 "password": "wcBMA8xOaBJvzJNbAQf/Rgcy02EodWcDyr/WapF0fobazx+q0h+0Ik3mTTuNdbTTQ1GZptQF/idaP1VqV+05D+qxfgZ6dRp+oAWDQBn+6zs5OzXOvSM2GNY4R20yz6jum1gDxVPn2Vd2hOLkKcyTApMsu5BBEgphhjePCEmwqzAISB3OkDEwDjhnzTbj4hYjzdvx6BoV23lzfxvt+Wnnr39SJ88kj35Fh9YQaYHPrI/IjXwHj8FdFZuOl+V5wXu/h3HKbZEln6mm96Gul8YPlCqfg9I1h45+16MV+iHRoNH8Vj7fpu1XUAx3W1bViH2ASdD2DJ+JXzn24uSv6Rl8aO5kPI9FvF83JQkMvq0UrNJbAdiKAxPl+4TFNBdOFT8Tl7DezpZaJtoAlSj8CQKYvrxVuqp/2+c21LA/3CwEfot/UhLSDAR5WDva4NvuKhm7/T3plcjuYr5rnslpk3zA5TxgvBqoNzIjWQ7gww"
